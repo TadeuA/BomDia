@@ -1,0 +1,44 @@
+/*Base*/
+body{
+    background: #35f;
+    font: normal 15pt Arial;
+}
+
+header{
+    color:white;
+    text-align: center;
+}
+
+section{
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin:auto;
+    box-shadow: 3px 3px #000;
+}
+
+footer{
+    color:white;
+    text-align: center;
+    font-style: italic;
+}
+/*Model*/
+#foto{
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    background: #000;
+    margin: auto;
+    margin-bottom: 5%;
+}
+#hora{
+    text-align: center;
+    margin-bottom: 7%;
+    margin-top: 2%;
+    line-height: 100%;
+}
+#hora p{
+    font: normal 12pt Arial;
+}
+
